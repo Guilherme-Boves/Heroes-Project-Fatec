@@ -9,8 +9,8 @@ import { Hero } from '../hero';
 export class HeroesComponent implements OnInit {
   
   hero: Hero = {
-    id: 11,
-    name: 'Dr Nice'
+    id: 1,
+    name: 'Windstorm'
   };
 
   constructor() { }
